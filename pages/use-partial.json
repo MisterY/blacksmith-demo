@@ -1,0 +1,11 @@
+{
+	"layout": "layout-with-menu",
+	"partials": {
+		"menu": "aus-menu"
+		,"small-partial": "small-partial"
+	},
+	"metadata": {
+		"author": "Alen Siljak",
+		"title": "Sample using metadata and partials"
+	}
+}
