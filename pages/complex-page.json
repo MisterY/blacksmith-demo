@@ -1,3 +1,9 @@
 {
-	"layout": "layout-with-menu"
+	"layout": "layout-with-menu",
+	"partials": {
+		"logo": "small-partial",
+		"header": "small-partial",
+		"menu": "aus-menu",
+		"footer": "footer"
+	}
 }
