@@ -1,9 +1,15 @@
 {
 	"layout": "layout-with-menu",
 	"partials": {
-		"logo": "small-partial",
 		"header": "small-partial",
 		"menu": "aus-menu",
-		"footer": "footer"
+		"footer": "footer",
+		"logo": "small-partial"
+	},
+	"page-details":{
+		"author":{
+
+			},
+		"logo": "post"
 	}
 }
