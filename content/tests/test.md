@@ -1,1 +1,0 @@
-Hola, gringo. This is test content.
