@@ -1,0 +1,13 @@
+{
+	"page-details":{
+		"author": {
+
+			},
+			"href": "page",
+			"date": "2013-04-05",
+			"files":{
+				"js": [{ "filename": "file1.js", "url": "/file1.js" }],
+				"img": [{ "filename": "img1.png", "url": "img1.png" }]
+			}
+	}
+}

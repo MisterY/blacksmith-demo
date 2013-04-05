@@ -1,0 +1,1 @@
+Hi, this is something, in page2 content dir.
