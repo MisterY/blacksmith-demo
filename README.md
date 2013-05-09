@@ -8,10 +8,13 @@ https://github.com/flatiron/blacksmith
 
 Install
 =======
-npm install blacksmith -g
+	npm install blacksmith -g
 
 Run
 ===
+Open console in the project directory (the one containing this file) and run build.cmd. This simply executes
+	blacksmith
+
 When Blacksmith is run, all the rendered content goes into 
 /public
 
