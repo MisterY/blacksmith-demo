@@ -18,6 +18,19 @@ Open console in the project directory (the one containing this file) and run bui
 When Blacksmith is run, all the rendered content goes into 
 /public
 
+Directories
+===========
+"Pages" directory defines what goes into the page generation. The json files define which sections of the layout will be replaced by which partials. "Content" is replaced by the main partial, the one with the same name as the page.
+
+"Layouts"
+Layout templates for web pages. 
+
+"Partials"
+These are HTML fragments that can be inserted into a layout, a page, or another partial. Partials for each output HTML page are specified in Pages directory.
+
+"Content"
+Contains Markdown files with content. Think of them as posts or pages on the final site. This content is inserted into the templates.
+
 Notes
 =====
 Index page uses content and, therefore, replaces content element with appropriate partial.
@@ -25,4 +38,3 @@ It is a single page so doesn't need a subdirectory in /content. Just index.md in
 
 Articles, on the other hand, are multiple output html pages created from one template page. That is why they are in a subdirectory, named as plural of article.
 
-"Pages" directory defines what goes into the page generation. The json files define which sections of the layout will be replaced by which partials. "Content" is replaced by the main partial, the one with the same name as the page.
