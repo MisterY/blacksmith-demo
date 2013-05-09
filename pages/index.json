@@ -1,5 +1,9 @@
 {
 	"partials":{
 		"sidebar": "sidebar"
+	},
+	"metadata": {
+		"title": "I am the Index!",
+		"firstName": "alen"
 	}
 }
