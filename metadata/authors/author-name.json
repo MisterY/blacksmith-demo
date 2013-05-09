@@ -1,4 +1,10 @@
 {
-	"firstName": "Alen",
-	"lastName": "Siljak"
+	"page-details": {
+		"author": {
+			"name":{
+				"firstName": "Alen",
+				"lastName": "Siljak"
+			}
+		}
+	}
 }
