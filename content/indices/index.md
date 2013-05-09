@@ -6,3 +6,7 @@
 
 index.md in content/index
 
+[meta:author]: <> (Charlie Robbins)
+[meta:title]: <> (HEY A TITLE)
+[meta:date]: <> (Wednesday, January 11, 2012)
+[meta:nested:key]: <> (Metadata value)
