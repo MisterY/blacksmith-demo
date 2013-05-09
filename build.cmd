@@ -1,2 +1,3 @@
 cls
+echo building...
 blacksmith
