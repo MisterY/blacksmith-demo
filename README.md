@@ -38,6 +38,8 @@ It is a single page so doesn't need a subdirectory in /content. Just index.md in
 
 Articles, on the other hand, are multiple output html pages created from one template page. That is why they are in a subdirectory, named as plural of article.
 
+If metadata in content pages is not being correctly parsed and applied, make sure the (.md) file is saved with UTF-8 encoding.
+
 Links
 =====
 Markdown syntax: http://daringfireball.net/projects/markdown/syntax
